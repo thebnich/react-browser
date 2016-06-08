@@ -6,4 +6,4 @@ import {
 } from 'react-native';
 import { setup } from './js/setup';
 
-AppRegistry.registerComponent('ReactBrowserV1', setup);
+AppRegistry.registerComponent('Browser', setup);
